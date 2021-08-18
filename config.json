@@ -1,0 +1,12 @@
+{
+	"params":
+	{
+		"local_uri":"mysql://root:@localhost/protfolio",
+		"pro_uri":"mysql://upma5o7dhdq9pzi:shivamRAJ-123#@eu-az-sql-serv1.database.windows.net/ddwhvui12qtl0cl"
+	}
+	"data":{
+		"name":"Shivam Raj Dubey"
+		""
+	}
+
+}

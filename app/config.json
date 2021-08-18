@@ -1,0 +1,35 @@
+{
+	"params":
+	{
+		"local_uri":"mysql://root:@localhost/portfolio",
+		"pro_uri":"mysql://upma5o7dhdq9pzi:shivamR@J-123@eu-az-sql-serv1.database.windows.net/ddwhvui12qtl0cl"
+	},
+	"data":{
+		"name":"Shivam Raj Dubey",
+		"header":"Web Developer - Freelancer - Full Stack Developer",
+		"option1":"Portfolio",
+		"option2":"About",
+		"option3":"Contact",
+		"t-loc":"Location",
+		"loc":"India, Asia",
+		"email":"admin@theshivam.tech",
+		"about-me":"Web Developer, Freelancer, Full Stack Developer&nbsp;",
+		"copyright":"Shivam Raj Dubey 2021",
+		"about-p1-div1":"This is Shivam Raj Dubey. Freelancer, Web Developer, Full Stack Developer. I know the languages Python, C#, Core Java. I have worked with the python framework Flask.",
+		"about-p2-div2":"If you wanna have your digital presence than you can contact me for any Web Development works.",
+		"about-p3-div2":"Web Developer | New to AI | FullStack Developer | Python | Flask | C# | Java | JavaScript | Freelancer",
+		"por-topic1":"I know many languages, 'Python' is one of them. Write now am working with this language. And I have a good hands on this.",
+		"por-topic2":"",
+		"por-topic3":"",
+		"por-topic4":"",
+		"por-topic5":"",
+		"por-topic6":""
+	},
+	"links":{
+		"facebook":"https://www.facebook.com/profile.php?id=100027876074853",
+		"linkedin":"https://twitter.com/ShivamRajDubey2",
+		"twitter":"https://www.linkedin.com/in/shivam-raj-dubey-5610361ba/"
+	}
+
+
+}
