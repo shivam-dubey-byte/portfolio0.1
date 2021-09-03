@@ -28,18 +28,18 @@ c={
 		"about-p1-div1":"This is Shivam Raj Dubey. Freelancer, Web Developer, Full Stack Developer. I know the languages Python, C#, Core Java. I have worked with the python framework Flask.",
 		"about-p2-div2":"If you wanna have your digital presence than you can contact me for any Web Development works.",
 		"about-p3-div2":"Web Developer | New to AI | FullStack Developer | Python | Flask | C# | Java | JavaScript | Freelancer",
-		"por-topic1":"I know many languages, 'Python' is one of them. Write now am working with this language. And I have a good hands on this. I'm the certified Python Developer.",
-		"por-topic2":"I'm a good WebDeveloper. I have a good practice on this. I have created some of the website in production.",
-		"por-topic3":"I'm a good experienced in flask framework and I'm mainly work with this framework only.",
-		"por-topic4":"I'm a good Programmer.",
-		"por-topic5":"I have also good hands on Java-Core. So, I can also work with java frameworks.",
-		"por-topic6":"I have a experience of '"+ str(experience) + " Years'.",
-		"por-h1":"Python",
-		"por-h2":"Full Stack Developer",
-		"por-h3":"Flask",
-		"por-h4":"Programming",
-		"por-h5":"Java",
-		"por-h6":"experience"
+		"por-topic1":"I generaly know three Praogramming Languages- (i.) Python  (ii.) Java(core)  (iii.) C# ",
+		"por-topic2":"I'm a Full Stack Developer. I can work on both (i)Frontend & (ii)Backend and can also (iii)manage database. I'm able to create Dynamic Website from Flask framework.",
+		"por-topic3":"As before I was practicing my Knowledge. So yet, I haven't worked with any company. But never mind on this as I'm having my full confidence on me and my Knowledge that, I will be able to satisfy you with my work. So you can have faith on me.",
+		"por-topic4":"I'm always ready to learn new things. As being a Developer. I always have to learn upcoming things. So that I could present the best version of my self to my clients(you).",
+		"por-topic5":"I'm a Reader. I use to read autobiography and biography of success people. I love to know and learn form the experience of the success people like Elon Musk, Jeff Bezos, Bill Gates, Steve Jobs,Warren Buffett,etc.",
+		"por-topic6":"While practicing Development. I also learned very usefull skill Content Creation and Designing which enhances the beauty. I can create Content and Design it for you.",
+		"por-h1":"Programming Language",
+		"por-h2":"Web Development",
+		"por-h3":"Experience",
+		"por-h4":"I'm always ready to learn New things",
+		"por-h5":"I'm a Reader",
+		"por-h6":"Content Creation"
 
 
 
