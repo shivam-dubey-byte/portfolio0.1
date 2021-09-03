@@ -28,7 +28,7 @@ c={
 		"about-p1-div1":"This is Shivam Raj Dubey. Freelancer, Web Developer, Full Stack Developer. I know the languages Python, C#, Core Java. I have worked with the python framework Flask.",
 		"about-p2-div2":"If you wanna have your digital presence than you can contact me for any Web Development works.",
 		"about-p3-div2":"Web Developer | New to AI | FullStack Developer | Python | Flask | C# | Java | JavaScript | Freelancer",
-		"por-topic1":"I generaly know three Praogramming Languages- (i.) Python  (ii.) Java(core)  (iii.) C# ",
+		"por-topic1":"I generaly know three Programming Languages- (i.) Python  (ii.) Java(core)  (iii.) C# ",
 		"por-topic2":"I'm a Full Stack Developer. I can work on both (i)Frontend & (ii)Backend and can also (iii)manage database. I'm able to create Dynamic Website from Flask framework.",
 		"por-topic3":"As before I was practicing my Knowledge. So yet, I haven't worked with any company. But never mind on this as I'm having my full confidence on me and my Knowledge that, I will be able to satisfy you with my work. So you can have faith on me.",
 		"por-topic4":"I'm always ready to learn new things. As being a Developer. I always have to learn upcoming things. So that I could present the best version of my self to my clients(you).",
